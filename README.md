@@ -49,4 +49,7 @@ CqrsCleanN_tier ├── </br>
 2. Update the connection string in appsettings.json:
 3. Run The Application : dotnet run --project YourProject.API
 
+## Details Tutorial 
+<a href="https://66c8b9e6551a897818fedf32--cozy-kulfi-fbb0e4.netlify.app/" target="_blank">Visit The Full Tuto</a>
+
                   
