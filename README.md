@@ -9,7 +9,10 @@ This project is a sample CRUD (Create, Read, Update, Delete) application built u
 
 ## Project Structure
 
-CqrsCleanN_tier ├── 
+You can use <pre> to display all spaces & blanks you have typed. E.g.:
+
+<pre>
+CqrsCleanN_tier ├── </br>
                   ├── CqrsCleanN_tier.API (ASP.NET Core Web API)</br>
                     └── Application</br>
                     └── ProductCqrs</br>
@@ -25,7 +28,7 @@ CqrsCleanN_tier ├──
                     └── DependencyInjection</br>
                     └── Repositories</br>
 
-
+</pre>
 ## Features
 - **Product Management**: Create, read, update, and delete products.
 - **CQRS Pattern**: Commands and Queries are separated for better scalability and optimization.
