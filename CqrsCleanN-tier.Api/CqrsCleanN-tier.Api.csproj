@@ -12,4 +12,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CqrsCleanN-tier.Domain\CqrsCleanN-tier.Domain.csproj" />
+    <ProjectReference Include="..\CqrsCleanN-tier.Infrastructure\CqrsCleanN-tier.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
