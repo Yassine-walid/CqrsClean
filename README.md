@@ -8,8 +8,7 @@ This project is a sample CRUD (Create, Read, Update, Delete) application built u
 - **Three-Tier Architecture** (API, Domain, Infrastructure) for separation of concerns and maintainability
 
 ## Project Structure
-
-You can use <pre> to display all spaces & blanks you have typed. E.g.:
+  
 
 <pre>
 CqrsCleanN_tier ├── </br>
@@ -27,8 +26,9 @@ CqrsCleanN_tier ├── </br>
                     └── Data</br>
                     └── DependencyInjection</br>
                     └── Repositories</br>
-
 </pre>
+
+
 ## Features
 - **Product Management**: Create, read, update, and delete products.
 - **CQRS Pattern**: Commands and Queries are separated for better scalability and optimization.
