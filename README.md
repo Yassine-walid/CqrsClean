@@ -10,20 +10,20 @@ This project is a sample CRUD (Create, Read, Update, Delete) application built u
 ## Project Structure
 
 CqrsCleanN_tier ├── 
-                  ├── CqrsCleanN_tier.API (ASP.NET Core Web API)
-                    └── Application
-                    └── ProductCqrs
-                        └── Commands
-                        └── Handlers
-                        └── Queris
-                    └── Controllers
-                  ├── CqrsCleanN_tier.Domain (Class Library) 
-                    └── Entities
-                    └── Interfaces
-                  ├── CqrsCleanN_tier.Infrastructure (Class Library)
-                    └── Data
-                    └── DependencyInjection
-                    └── Repositories
+                  ├── CqrsCleanN_tier.API (ASP.NET Core Web API)</br>
+                    └── Application</br>
+                    └── ProductCqrs</br>
+                        └── Commands</br>
+                        └── Handlers</br>
+                        └── Queris</br>
+                    └── Controllers</br>
+                  ├── CqrsCleanN_tier.Domain (Class Library) </br>
+                    └── Entities</br>
+                    └── Interfaces</br>
+                  ├── CqrsCleanN_tier.Infrastructure (Class Library)</br>
+                    └── Data</br>
+                    └── DependencyInjection</br>
+                    └── Repositories</br>
 
 
 ## Features
